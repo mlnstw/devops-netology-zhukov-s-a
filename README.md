@@ -21,3 +21,5 @@ override.tf.json
 terraform.rc настройки пользователя
 
 new string for fix
+
+for commit git ide
