@@ -1,4 +1,4 @@
-# devops-netology-zhukov-s-a
+# devops-netology-zhukov s a
 First edit
 
 .terraform/ - будут проигнорированы все файлы в дирректории .terraform/
