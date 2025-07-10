@@ -20,4 +20,4 @@ override.tf.json
 .terraformrc
 terraform.rc настройки пользователя
 
-
+new string for fix
